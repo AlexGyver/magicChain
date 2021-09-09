@@ -28,13 +28,13 @@
 <a id="chapter-3"></a>
 ## Материалы и компоненты
 ### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
-- Драйвер http://ali.ski/UXBPQo  http://ali.ski/zHOXLY
-- Понижайка http://ali.ski/jR8Ci
-- Лента яркая (холодный белый) http://ali.ski/K5N-NQ  http://ali.ski/LzLUn
-- Модуль MOSFET http://ali.ski/5X828p  http://ali.ski/w36wT8
-- Потенциометры (10 кОм) http://ali.ski/YvQnKk  http://ali.ski/9H8Yp
-- БП 12V (2A минимум) http://ali.ski/InHFp  http://ali.ski/-SPDFO
-- Ардуино http://ali.ski/nEWqt  http://ali.ski/q0wxz
+- Драйвер https://ali.ski/uqbsYe  https://ali.ski/cS1pI
+- Понижайка https://ali.ski/ZStpi
+- Лента яркая (холодный белый) https://ali.ski/MNgx7  https://ali.ski/Uvx4fK
+- Модуль MOSFET https://ali.ski/4H7c5z  https://ali.ski/xFjOeA
+- Потенциометры (10 кОм) https://ali.ski/CZsMy8  https://ali.ski/h1zN3
+- БП 12V (2A минимум) https://ali.ski/XaPZ_  https://ali.ski/Z-91Jw
+- Ардуино https://ali.ski/fOGxoG  https://ali.ski/7pKQi
 
 
 ## Вам скорее всего пригодится
